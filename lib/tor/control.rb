@@ -236,7 +236,6 @@ module Tor
       Pathname(reply)
     end
 
-  protected
 
     ##
     # Sends a command line over the socket.
